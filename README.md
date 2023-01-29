@@ -1,4 +1,4 @@
 # BhavanaSamudrala
 
-Full-stack Web Developer Bootcamp course 
-Contains all the important lecture materials and notes
+ 
+Contains all the important lecture materials and notes for the Full-stack Web Developer Bootcamp course
